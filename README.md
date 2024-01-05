@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm passionate about creating robust and scalable 
 - **Other:** RESTful APIs, GraphQL, Git, Docker, Langchain, AWS
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/r-naeem-afzal/r-naeem-afzal/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/r-naeem-afzal/langs)](https://githubtrends.io)
 
 ## 📫 Let's Connect
 
