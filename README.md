@@ -3,21 +3,22 @@
 Welcome to my GitHub profile! I'm passionate about creating robust and scalable web applications, and I specialize in using a variety of technologies to bring ideas to life. Below, you'll find a glimpse of my skills.
 
 ## 🔧 Technologies & Tools
-
+<div style="display: flex;  flex-direction: row; align-items: center; justify-content: space-between;">
+<span>
 - **Frontend:** React, Next.js, TypeScript
 - **Backend:** Python, Flask, Django
 - **Database:** SQL, PostgreSQL
 - **Other:** RESTful APIs, GraphQL, Git, Docker, Langchain, AWS
+</span>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/r-naeem-afzal/r-naeem-afzal/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<span>
+    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/r-naeem-afzal/r-naeem-afzal/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 <a href="https://githubtrends.io">
   <img align="center" src="https://api.githubtrends.io/user/svg/r-naeem-afzal/langs?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
 </a>
-
-
-
-
+</span>
+</div>
 
 ## 📫 Let's Connect
 
