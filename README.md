@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about creating robust and scalable 
 
 ## 🔧 Technologies & Tools
 <div style="display: flex;  flex-direction: row; align-items: center; justify-content: space-between;">
-<span>
+<span stle="display: flex: flex-direction:col;">
 - **Frontend:** React, Next.js, TypeScript
 - **Backend:** Python, Flask, Django
 - **Database:** SQL, PostgreSQL
