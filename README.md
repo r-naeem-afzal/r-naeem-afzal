@@ -9,12 +9,11 @@ Welcome to my GitHub profile! I'm passionate about creating robust and scalable 
 - **Database:** SQL, PostgreSQL
 - **Other:** RESTful APIs, GraphQL, Git, Docker, Langchain, AWS
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/r-naeem-afzal/r-naeem-afzal/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/rana-naeem-afzal-091523b0/
 
-## 📈 GitHub Stats
 
-![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-naeem-afzal&show_icons=true&theme=radical)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/r-naeem-afzal/r-naeem-afzal/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
