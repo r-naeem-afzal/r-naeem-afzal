@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about creating robust and scalable web applications, and I specialize in using a variety of technologies to bring ideas to life. Below, you'll find a glimpse of my skills.
 
-           <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/r-naeem-afzal/r-naeem-afzal/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img align="center" src="https://github.com/r-naeem-afzal/r-naeem-afzal/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 ## 🔧 Technologies & Tools
 
