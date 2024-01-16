@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm passionate about creating robust and scalable 
   <img align="right" src="https://api.githubtrends.io/user/svg/r-naeem-afzal/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
 </a>
 
+
 ## 🔧 Technologies & Tools
 
 - **Frontend:** React, Next.js, TypeScript
