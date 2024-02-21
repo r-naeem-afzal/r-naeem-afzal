@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about creating robust and scalable 
 
 - LinkedIn: https://www.linkedin.com/in/rana-naeem-afzal-091523b0/
   
-<a href="https://app.daily.dev/DailyDevTips"><img align="left" src="https://github.com/r-naeem-afzal/r-naeem-afzal/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/naeemafzal"><img src="https://api.daily.dev/devcards/v2/kWjl4bhOjvgAAxEsb9PF0.png?r=e2k&type=default" width="356" alt="Rana Naeem Afzal's Dev Card"/></a>
 <a href="https://githubtrends.io">
   <img align="right" src="https://api.githubtrends.io/user/svg/r-naeem-afzal/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
 </a>
