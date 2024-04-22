@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm passionate about creating robust and scalable 
 <a href="https://app.daily.dev/naeemafzal"><img src="https://api.daily.dev/devcards/v2/kWjl4bhOjvgAAxEsb9PF0.png?r=e2k&type=default" width="356" alt="Rana Naeem Afzal's Dev Card"/></a>
 <a href="https://githubtrends.io">
   <img align="right" src="https://api.githubtrends.io/user/svg/r-naeem-afzal/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
+  
 </a>
 
 
