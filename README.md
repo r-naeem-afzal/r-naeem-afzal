@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/https://github.com/r-naeem-afzal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rana-naeem-afzal-091523b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 I'm passionate about creating robust and scalable web applications, and I specialize in using a variety of technologies to bring ideas to life. Below, you'll find a glimpse of my skills.</h3>**
+ **<h3 align="left">🚀 I'm passionate about creating robust and scalable web applications, and I specialize in using a variety of technologies to bring ideas to life.</h3>**
 
 **<h3 align="left">About Me</h3>**
 
