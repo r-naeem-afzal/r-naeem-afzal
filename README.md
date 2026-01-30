@@ -1,14 +1,14 @@
 <!-- ===================== -->
-<!--  HERO / INTRO SECTION -->
+<!--  HERO SECTION -->
 <!-- ===================== -->
 
-![👋 Hi, my name is Rana Naeem Afzal, a full-stack web developer](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![Hi, my name is Rana Naeem Afzal, a full-stack web developer](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 <h1 align="center">👋 Hi, I'm Rana Naeem Afzal</h1>
 <h3 align="center">Full-Stack Web Developer | Backend-Focused | System Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=r-naeem-afzal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=r-naeem-afzal&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -17,10 +17,10 @@
 
 <p align="left">
   <a href="https://github.com/r-naeem-afzal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
   </a>
   <a href="https://www.linkedin.com/in/rana-naeem-afzal-091523b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
-### Databases & Infra
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -76,14 +76,11 @@
 
 <p align="left">
   <a href="https://app.daily.dev/naeemafzal">
-    <img src="https://api.daily.dev/devcards/v2/kWjl4bhOjvgAAxEsb9PF0.png?r=e2k&type=default" width="360" alt="Dev Card" />
+    <img src="https://api.daily.dev/devcards/v2/kWjl4bhOjvgAAxEsb9PF0.png?r=e2k&type=default" width="360"/>
   </a>
 </p>
 
-<p align="right">
-  <img src="https://api.githubtrends.io/user/svg/r-naeem-afzal/langs?time_range=one_year&include_private=true&loc_metric=changed&theme=dark" />
-</p>
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+⭐ **If you like my work, consider starring my repositories!**
