@@ -1,12 +1,14 @@
 <!-- ===================== -->
-<!--  HERO / INTRO SECTION -->
+<!--  HERO SECTION -->
 <!-- ===================== -->
+
+![Hi, my name is Rana Naeem Afzal, a full-stack web developer](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 <h1 align="center">👋 Hi, I'm Rana Naeem Afzal</h1>
 <h3 align="center">Full-Stack Web Developer | Backend-Focused | System Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=r-naeem-afzal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=r-naeem-afzal&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -27,13 +29,13 @@
 ## 🚀 About Me
 
 - 💼 **Currently working on:**  
-  Enterprise-level software for **student onboarding and application management**
+  Enterprise-level software for student onboarding and application management
 
 - 🌱 **Currently learning:**  
   Rust · Software Architecture · Data Structures & Algorithms
 
 - 💬 **Ask me about:**  
-  Django · Flask · FastAPI · React · Next.js · Backend Architecture
+  Django · Flask · FastAPI · React · Next.js
 
 - ⚡ **Fun fact:**  
   Self-taught developer with a strong production mindset
@@ -58,7 +60,7 @@
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### Databases
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -74,7 +76,7 @@
 
 <p align="left">
   <a href="https://app.daily.dev/naeemafzal">
-    <img src="https://api.daily.dev/devcards/v2/kWjl4bhOjvgAAxEsb9PF0.png?r=e2k&type=default" width="360" alt="Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/kWjl4bhOjvgAAxEsb9PF0.png?r=e2k&type=default" width="360"/>
   </a>
 </p>
 
